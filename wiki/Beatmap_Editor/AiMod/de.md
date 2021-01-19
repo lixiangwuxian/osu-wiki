@@ -1,8 +1,13 @@
+---
+outdated: true
+outdated_since: 2a53f4edb06a6521b8f6db07dc442660fa9861d3
+---
+
 # AiMod
 
 **AiMod** ist ein Hilfsmittel im Beatmap Editor. Der **AiMod** kann über den Tastenkürzel `Strg` + `Shift` + `A` oder über **File**, dann **Open AiMod** geöffnet werden.
 
-![AiMod](AiMod.jpg "AiMod ist normalerweise der erste Modder einer Beatmap")
+![AiMod](img/AiMod.jpg "AiMod ist normalerweise der erste Modder einer Beatmap")
 
 AiMod hilft neuen Mappern ihre Beatmaps zu modden, indem es grundlegende Probleme erkennt. Komplizierteres, wie das Überprüfen der Timing/BPM oder das Design der Beatmap, muss von einem [Modder](/wiki/Glossary) überprüft werden. Fehler, Probleme und Warnungen werden in Tabs kategorisiert.
 
@@ -32,7 +37,7 @@ AiMod hilft neuen Mappern ihre Beatmaps zu modden, indem es grundlegende Problem
 
 | Nachricht | Erklärung | Lösung |
 | :-- | :-- | :-- |
-| No problems were found in this map! | AiMod konnte keine Probleme mit der Beatmap finden! | Man kann die Beatmap mithilfe von BSS hochladen und damit osu!moddern erlauben weitere Fehler und Probleme der Beatmap zu finden.|
+| No problems were found in this map! | AiMod konnte keine Probleme mit der Beatmap finden! | Man kann die Beatmap mithilfe von BSS hochladen und damit osu!moddern erlauben weitere Fehler und Probleme der Beatmap zu finden. |
 
 #### Meta
 
@@ -49,7 +54,7 @@ AiMod hilft neuen Mappern ihre Beatmaps zu modden, indem es grundlegende Problem
 
 | Nachricht | Erklärung | Lösung |
 | :-- | :-- | :-- |
-| These two objects are less than 10ms apart! | Zwei Hitobjekte sind zu nah beieinander. Die Spieler können nicht so schnell klicken. | Die zwei Hitobjekte müssen entweder voneinander verschoben oder gelöscht werden.|
+| These two objects are less than 10ms apart! | Zwei Hitobjekte sind zu nah beieinander. Die Spieler können nicht so schnell klicken. | Die zwei Hitobjekte müssen entweder voneinander verschoben oder gelöscht werden. |
 
 #### Design
 

@@ -6,11 +6,13 @@ tags:
   - 難易度の名前
   - 星
   - 星評価
+outdated: true
+outdated_since: a1c56faa4ae6d2ba10579e0e2c9971b41fe4fa33
 ---
 
 # 難しさ
 
-*[ビートマップ](/wiki/Beatmaps)と混同しないでください。*
+*[ビートマップ](/wiki/Beatmap)と混同しないでください。*
 
 ビートマップの**難易度**は、ビートマップをクリアするために必要なスキルのレベルを表します。ビートマップの難易度の名前と星の評価は通常、その難易度を示すのに十分な情報を提供します。
 
@@ -36,7 +38,7 @@ tags:
 - ![](/wiki/shared/diff/hard-t.png) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png) Oni
 - ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
-- ![](/wiki/shared/diff/expertplus-t.png) Outer/Hell Oni
+- ![](/wiki/shared/diff/expertplus-t.png) Hell Oni
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 

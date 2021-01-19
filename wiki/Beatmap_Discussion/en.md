@@ -37,7 +37,7 @@ It is important to keep a few things in mind to use beatmap discussion pages eff
 
 ![](img/mode-selection.jpg "Mode selection")
 
-Mode selection changes the [game mode](/wiki/Game_Modes) you are modding. It is only possible to select a game mode if the beatmapset has a difficulty of that game mode. This is only used with beatmaps that contain multiple game modes; otherwise, it will default to the mapped game mode.
+Mode selection changes the [game mode](/wiki/Game_mode) you are modding. It is only possible to select a game mode if the beatmapset has a difficulty of that game mode. This is only used with beatmaps that contain multiple game modes; otherwise, it will default to the mapped game mode.
 
 ## Beatmap header
 
@@ -85,7 +85,7 @@ The beatmap status bar shows everything relevant to a beatmap's spot in the [Bea
 
 ### Hype train
 
-The hype train tracks how many [hypes](/wiki/Beatmaps/Hype) a mapset has received. Once 5 hypes have been achieved, the beatmap can be nominated by [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators). Hypes can only be given by going to the `General (All Difficulties)` tab, as it will not work through the `General` or the `Timeline` tabs. Clicking the `Hype` button will automatically move you to the correct tab.
+The hype train tracks how many [hypes](/wiki/Beatmap/Hype) a mapset has received. Once 5 hypes have been achieved, the beatmap can be nominated by [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators). Hypes can only be given by going to the `General (All Difficulties)` tab, as it will not work through the `General` or the `Timeline` tabs. Clicking the `Hype` button will automatically move you to the correct tab.
 
 ### Nomination status
 
@@ -93,7 +93,7 @@ The nomination status bar tracks a beatmap's nominations. Once a beatmap has rec
 
 ### General info
 
-General info shows the creator of the beatmapset, the submission date and the date it was last updated. [Status changes](/wiki/Beatmaps), such as a beatmap getting Ranked, Loved or Graveyarded, are also considered updates and will be displayed here.
+General info shows the creator of the beatmapset, the submission date and the date it was last updated. [Status changes](/wiki/Beatmap), such as a beatmap getting Ranked, Loved or Graveyarded, are also considered updates and will be displayed here.
 
 ### Watch/Unwatch
 

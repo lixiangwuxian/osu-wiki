@@ -1,4 +1,5 @@
 ---
+stub: true
 tags:
   - SR
   - stars
@@ -6,7 +7,7 @@ tags:
 
 # Star rating
 
-**Star rating** (***SR***) describes a [beatmap](/wiki/Beatmaps)'s difficulty, which is automatically calculated by the osu! client. Star rating plays a large role in how [performance points](/wiki/Performance_Points) are awarded. This number can be seen on the [song selection screen](/wiki/Interface#song-selection-screen) and on a beatmap's info page.
+**Star rating** (***SR***) describes a [beatmap](/wiki/Beatmap)'s difficulty, which is automatically calculated by the osu! client. Star rating plays a large role in how [performance points](/wiki/Performance_Points) are awarded. This number can be seen on the [song selection screen](/wiki/Interface#song-selection-screen) and on a beatmap's info page.
 
 ## Difficulties
 
@@ -25,5 +26,4 @@ On the website, beatmaps are automatically given a difficulty icon based on thes
 
 Most maps' intended difficulty levels match the icons they are given, but some deviate significantly. This is why the [ranking criteria](/wiki/Ranking_Criteria) defines more precise rules for determining difficulty and evaluating beatmapset spreads.
 
-<!-- this is a stub -->
 <!-- TODO: add Star rating calculation formula -->

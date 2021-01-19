@@ -6,11 +6,13 @@ tags:
   - SR
   - star rating
   - stars
+outdated: true
+outdated_since: a1c56faa4ae6d2ba10579e0e2c9971b41fe4fa33
 ---
 
 # Difficulty
 
-*Não para ser confundido com [Beatmaps](/wiki/Beatmaps).*
+*Não para ser confundido com [Beatmaps](/wiki/Beatmap).*
 
 A **difficulty** de um beatmap descreve o nível de habilidade requirido para completar-lo. O nome de dificuldade e a classificação de estrelas de um beatmap geralmente te dá informação o suficiente de quão difícil ele é.
 
@@ -36,7 +38,7 @@ Esses são os típicos níveis de dificuldade que um beatmap pode ser categoriza
 - ![](/wiki/shared/diff/hard-t.png) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png) Oni
 - ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
-- ![](/wiki/shared/diff/expertplus-t.png) Outer/Hell Oni
+- ![](/wiki/shared/diff/expertplus-t.png) Hell Oni
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 

@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Internet Relay Chat
 
 [Internet Relay Chat](https://id.wikipedia.org/wiki/IRC), dikenal juga sebagai IRC, adalah sebuah protokol standar yang sering digunakan untuk mengobrol dengan banyak pengguna lain yang tersedia.
@@ -60,7 +64,7 @@ Jika klien yang anda pakai tidak tercantum di sini, ikuti dokumentasi yang terse
 
 ## Pertanyaan yang Sering Diajukan
 
-### Saya mendapat kesalahan "Token Otentikasi Salah".
+### Saya mendapat kesalahan "Token Otentikasi Salah"
 
 1. Pastikan anda menggunakan kata sandi dari halaman [Otentikasi IRC](https://osu.ppy.sh/p/irc).
 2. Jika nama pengguna osu! anda memiliki spasi, ganti dengan garis bawah (misalnya **This Username** menjadi **This_Username**)
@@ -69,7 +73,7 @@ Jika klien yang anda pakai tidak tercantum di sini, ikuti dokumentasi yang terse
 
 Tidak. Anda hanya dapat menggunakan nama pengguna osu! anda.
 
-### Apa fungsi status suara yang saya miliki ini? Saya juga melihat beberapa orang memilikinya.
+### Apa fungsi status suara yang saya miliki ini? Saya juga melihat beberapa orang memilikinya
 
 Semua pengguna dengan *status suara* terhubung menggunakan klien IRC, kecuali moderator chat yang selalu memiliki status *operator (+o)* terlepas dari klien apapun yang mereka gunakan.
 

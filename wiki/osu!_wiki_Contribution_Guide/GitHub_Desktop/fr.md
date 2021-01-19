@@ -78,7 +78,7 @@
 
 3\. Il est préférable de séparer chaque "grosse" action en un seul commit.
 
-Par exemple, comme illustré ci-dessus, [pippi](/wiki/Mascots#pippi) avait ajouté un fichier image, modifié le fichier `en.md` pour ajouter un titre et un lien à l'image, et marquer les traductions comme obsolètes. À partir de là, nous pouvons avoir deux commits, un pour les changements qui ont affecté le fichier`en.md` et un pour marquer les traductions comme obsolètes.
+Par exemple, comme illustré ci-dessus, [pippi](/wiki/Mascots#-pippi) avait ajouté un fichier image, modifié le fichier `en.md` pour ajouter un titre et un lien à l'image, et marquer les traductions comme obsolètes. À partir de là, nous pouvons avoir deux commits, un pour les changements qui ont affecté le fichier`en.md` et un pour marquer les traductions comme obsolètes.
 
 4\. Sélectionnez les fichiers à valider.
 
@@ -100,4 +100,4 @@ Par exemple, comme illustré ci-dessus, [pippi](/wiki/Mascots#pippi) avait ajout
 
 ## Finition
 
-Vous pouvez maintenant revenir à [osu! Guide de contribution au wiki](/wiki/owcg#finishing) pour la dernière information concernant votre demande et vos modifications.
+Vous pouvez maintenant revenir à [osu! Guide de contribution au wiki](/wiki/osu!_wiki_Contribution_Guide#finishing) pour la dernière information concernant votre demande et vos modifications.

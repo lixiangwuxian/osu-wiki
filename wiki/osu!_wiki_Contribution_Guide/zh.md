@@ -42,7 +42,7 @@ outdated: true
 
 3\. 这不是个大问题。只是你无法修改已经被修改的文件，这意味你的仓库落后于最新的提交。
 
-4\. 为了解决这个问题，请看[常见问题——我的分支过期了！](/wiki/owcg/Common_Issues#我的分支过期了！)。
+4\. 为了解决这个问题，请看[常见问题——我的分支过期了！](/wiki/osu!_wiki_Contribution_Guide/Common_Issues#我的分支过期了！)。
 
 5\. 当你完成了第 4 步，请转到 [在线编辑或本地编辑](#在线编辑或本地编辑)。
 
@@ -50,10 +50,10 @@ outdated: true
 
 现在，你有两种选择：
 
-- [GitHub 网页](/wiki/owcg/GitHub_Web_Interface) - 在线编辑；适合单篇文章的编辑
-- [GitHub Desktop](/wiki/owcg/GitHub_Desktop) - 本地编辑；这适合于单篇或者多篇文章的编辑（包括上传，删除，移动图片和文件）
+- [GitHub 网页](/wiki/osu!_wiki_Contribution_Guide/GitHub_Web_Interface) - 在线编辑；适合单篇文章的编辑
+- [GitHub Desktop](/wiki/osu!_wiki_Contribution_Guide/GitHub_Desktop) - 本地编辑；这适合于单篇或者多篇文章的编辑（包括上传，删除，移动图片和文件）
 
-*提示：你在以上两种编辑方式中任选一种。*同时，也有一些第三方软件可以做类似于 GitHub 网页和Desktop所做的事情。
+*提示：你在以上两种编辑方式中任选一种。*同时，也有一些第三方软件可以做类似于 GitHub 网页和 Desktop 所做的事情。
 
 **当你阅读完成 *GitHub 网页* 或 *GitHub Desktop*，你可以继续阅读下一章节。**
 
@@ -97,7 +97,7 @@ outdated: true
 
 ### 审阅
 
-当你创建了 Pull Request 后，其他 osu! wiki 贡献者可能会审阅你的修改，帮助寻找一些你没有注意到的错误。 **你需要及时修正这些错误，** 否则你的 Pull Request 可能会被标记为“关闭”！如果你想要别人审阅你的 Pull Request，你可以在 [osu!dev Discord 频道](https://discord.gg/ppy)中寻求其他人的帮助，或者在 GitHub 的评论中说明。
+当你创建了 Pull Request 后，其他 osu! wiki 贡献者可能会审阅你的修改，帮助寻找一些你没有注意到的错误。**你需要及时修正这些错误**，否则你的 Pull Request 可能会被标记为“关闭”！如果你想要别人审阅你的 Pull Request，你可以在 [osu!dev Discord 频道](https://discord.gg/ppy)中寻求其他人的帮助，或者在 GitHub 的评论中说明。
 
 注：对于中文文章，你可以通过 `@osu-translate-zh` 来寻求 osu!中文翻译组织 的审阅。
 

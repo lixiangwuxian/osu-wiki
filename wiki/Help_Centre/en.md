@@ -6,7 +6,7 @@ needs_cleanup: true
 
 # Help centre
 
-Having trouble with something? We're here to help! Check out some solutions to common issues in the sidebar to the left of your screen.
+Having trouble with something? We're here to help! Check out some solutions to common issues in the sidebar to the left of your screen. Some options will require you to contact the [account support team](/wiki/People/The_Team/Account_support_team) by mail.
 
 ## Account
 
@@ -96,6 +96,8 @@ Lastly, we are aware that some providers do not accept automated emails from us.
 If you have purchased (or been gifted) a [supporter tag](https://osu.ppy.sh/home/support) at any point, you will be a able to change your name **once** for free. This name change can be redeemed at the [osu!store](https://osu.ppy.sh/store/products/32).
 
 At any point thereafter, you may purchase a username change to change your name to whatever you wish. However, each change will become progressively more expensive - the second will cost $8 USD, the third $16 USD, and so on, up to a cap of $100 USD. We do this to prevent people from abusing the system to change their names in rapid succession.
+
+Please note that usernames must abide by our [Community Rules](/wiki/Rules) in that they must not be broadly offensive to other users, overly provocative or otherwise inflammatory in any way. In addition, usernames that impersonate or assume the identity of major public figures (such as celebrities, politicians, etc.) are not allowed and will be forcefully reverted once we find out about them.
 
 If you are only after minor capitalization or grammar/spelling changes, you can email [accounts@ppy.sh](mailto:accounts@ppy.sh) to request a free name change to fix these issues. We will not charge you for these sorts of name changes, but you **MUST** do them through a support email. Keep in mind we will only perform this a limited number of times, so make sure you really want it!
 
@@ -494,7 +496,7 @@ Please consult Kaspersky's [official help article](https://support.kaspersky.com
 
 ##### Allowing a program through McAfee
 
-Please consult McAffee's [official knowledgebase entry on the topic](https://service.mcafee.com/webcenter/portal/cp/home/articleview?articleId=TS100813).
+Please consult McAfee's [official knowledgebase entry on the topic](https://service.mcafee.com/webcenter/portal/cp/home/articleview?articleId=TS100813).
 
 ##### I've added osu! to my firewall but I still can't connect to the game!
 
@@ -515,7 +517,7 @@ To open the Command Prompt, press and hold the `Windows` key and press `R`, and 
 
 You can then type the trace route command into the console. For example, the command `tracert cho.ppy.sh` will track how your computer connects to the game server over the internet. Tracing routes takes a little time, sometimes upwards of a minute or more depending on your connection.
 
-We will need the results from a trace route for command for the following servers: `cho.ppy.sh`, `osu.ppy,sh` and `m1.ppy.sh`.
+We will need the results from a trace route for command for the following servers: `cho.ppy.sh`, `osu.ppy.sh` and `m1.ppy.sh`.
 
 To copy the results of the command, simply click and drag from the bottom of the output all the way to the top so that the information turns white, then right click to instantly copy it to your clipboard.
 
@@ -926,7 +928,7 @@ These files are extremely handy to have and can make solving even very complicat
 
 If a support team member has asked you for these logs, here's how to get them:
 
-1. Open *osu*.
+1. Open *osu!*.
 2. Go to the `Options` menu by clicking the button on the main menu, or hitting `CTRL+O`.
 3. Type `release` into the quick-search bar. This will take you to the current release stream your client is using.
 4. Make sure it is set to either `Beta` or `Cutting Edge (Experimental)`. We recommend `Beta` for the best chance of stability in this situation.

@@ -1,8 +1,12 @@
+---
+outdated: true
+---
+
 # Hadiah
 
 ## Lencana Profil
 
-Tim osu! (atas kebijakan mereka sendiri), dapat memberikan turnamen yang dikelola oleh komunitas sebuah *lencana profil*, hadiah khusus yang dapat dilihat di profil pemain. 
+Tim osu! (atas kebijakan mereka sendiri), dapat memberikan turnamen yang dikelola oleh komunitas sebuah *lencana profil*, hadiah khusus yang dapat dilihat di profil pemain.
 
 Lencana ini biasanya menampilkan keterampilan dan keahlian seorang pemain dalam skenario turnamen, dan karenanya diatur untuk memastikan bahwa mereka dapat mempertahankan nilai keterampilannya.
 
@@ -44,7 +48,7 @@ Lencana profil diharapkan memenuhi beberapa standar minimum sebelum diajukan.
 Harap baca ini dengan saksama - jika lencana yang Anda ajukan tidak memenuhi syarat berikut, ada kemungkinan untuk ditolak!
 
 - File gambar lencana HARUS berupa format PNG atau JPG/JPEG.
-    + Jika desain lencana mengandung elemen transparansi, desain HARUS dalam format PNG.
+    - Jika desain lencana mengandung elemen transparansi, desain HARUS dalam format PNG.
 - Dimensi file gambar lencana TIDAK BOLEH melebihi 86x40, atau 86x34 minimum absolut. (*86x40 adalah format yang disarankan untuk semua lencana dan Anda akan dipertanyakan untuk menggunakan 86x34, dan desain yang kurang dari dimensi itu akan langsung ditolak.*)
 - File gambar HARUS berukuran di bawah 50kb. (*Kami sarankan untuk menggunakan [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer) jika Anda mengalami masalah ini.*)
 - Lencana HARUS dengan jelas menampilkan logo atau nama turnamen Anda. (*Anda dapat menggantinya dengan motif atau tema visual asalkan cukup jelas.*)

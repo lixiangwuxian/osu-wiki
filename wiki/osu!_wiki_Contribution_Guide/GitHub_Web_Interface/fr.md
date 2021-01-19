@@ -1,6 +1,6 @@
 # Interface Web GitHub
 
-*Cet article est la continuité de la page principale.* Si vous envisagez de modifier plusieurs articles (y compris le téléchargement, la suppression et/ou le déplacement d'images ou de fichiers), veuillez consulter l'autre guide, [GitHub Desktop](/wiki/owcg/GitHub_Desktop).
+*Cet article est la continuité de la page principale.* Si vous envisagez de modifier plusieurs articles (y compris le téléchargement, la suppression et/ou le déplacement d'images ou de fichiers), veuillez consulter l'autre guide, [GitHub Desktop](/wiki/osu!_wiki_Contribution_Guide/GitHub_Desktop).
 
 ## Édition
 
@@ -20,7 +20,7 @@
 
 ### Déplacement de fichiers
 
-* Attention: Ceci est **non recommandé** car vous ne pouvez déplacer qu'un fichier à la fois! Cela peut créer plusieurs commits "stupides" qui peuvent amener les relecteurs à fermer ou à rejeter votre pull request! *
+- Attention: Ceci est **non recommandé** car vous ne pouvez déplacer qu'un fichier à la fois! Cela peut créer plusieurs commits "stupides" qui peuvent amener les relecteurs à fermer ou à rejeter votre pull request! *
 
 1\. Naviguez jusqu'au fichier que vous souhaitez déplacer et ouvrez-le.
 
@@ -100,4 +100,4 @@
 
 ## Finition
 
-Vous pouvez maintenant revenir au [Guide de contribution du osu! wiki](/wiki/owcg#finition) pour la dernière information concernant votre demande et vos modifications.
+Vous pouvez maintenant revenir au [Guide de contribution du osu! wiki](/wiki/osu!_wiki_Contribution_Guide#finition) pour la dernière information concernant votre demande et vos modifications.

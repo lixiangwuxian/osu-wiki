@@ -5,11 +5,13 @@ tags:
   - SR
   - star rating
   - stars
+outdated: true
+outdated_since: a1c56faa4ae6d2ba10579e0e2c9971b41fe4fa33
 ---
 
 # Kesulitan beatmap
 
-*Tidak sama dengan [Beatmaps](/wiki/Beatmaps).*
+*Tidak sama dengan [Beatmaps](/wiki/Beatmap).*
 
 **Kesulitan** beatmap menggambarkan tingkat keterampilan yang diperlukan untuk menyelesaikannya. Nama tiap tingkat dan *star rating* dari sebuah beatmap biasanya memberikan informasi yang cukup untuk mengetahui seberapa sulit sebuah beatmap.
 
@@ -35,7 +37,7 @@ Berikut adalah nama tingkat kesulitan yang biasa dimiliki dalam beatmap. Definis
 - ![](/wiki/shared/diff/hard-t.png) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png) Oni
 - ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
-- ![](/wiki/shared/diff/expertplus-t.png) Outer/Hell Oni
+- ![](/wiki/shared/diff/expertplus-t.png) Hell Oni
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
